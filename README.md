@@ -69,10 +69,8 @@ Dekathon 2.0, 2023 : Finalist in National level symposium conducted by St.Thomas
 ---
 
 ### 📫 Connect With Me
-
-[![LinkedIn]](https://www.linkedin.com/in/naghulram-c-891072225)  
-[![Email]](mailto:naghulramc3006@gmail.com)  
-[![GitHub]](https://github.com/naghul30)  
-[![Instagram]](https://www.instagram.com/naghul_30)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naghulram-c-891072225)  
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naghulramc3006@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/naghul30)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naghul_30)
 
